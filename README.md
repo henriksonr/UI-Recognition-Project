@@ -13,11 +13,11 @@ results.png: This file gives overall statistics of the accuracy of the model whi
 confusion_matrix_normalized.png: This file gives the normalized confusion matrix of the dataset, or basically which labels were confused with other labels.
 P_curve.png: One of the methods used to evaluate the precision and confidence of my dataset, or how my model's performance was evaluated.
 
-Prediction Results:
+**Prediction Results**
 
 Inside Prediction Results, there is a set of images that have had the YOLO prediction algorithm run via my weights inside the weights folder.
 
-Weights:
+**Weights**
 
 Inside this folder, you will find the weights of my model that was trained.
 
