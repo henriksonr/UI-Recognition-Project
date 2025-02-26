@@ -10,7 +10,9 @@ Inside the training data folder, there are two other folders, as well as a list 
 **IMPORTANT FILES**
 
 results.png: This file gives overall statistics of the accuracy of the model while training the initial dataset via line-graph format.
+
 confusion_matrix_normalized.png: This file gives the normalized confusion matrix of the dataset, or basically which labels were confused with other labels.
+
 P_curve.png: One of the methods used to evaluate the precision and confidence of my dataset, or how my model's performance was evaluated.
 
 **PREDICTION RESULTS**
